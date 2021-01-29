@@ -47,3 +47,4 @@ widgetsnbextension==3.5.1
 zipp==3.1.0
 graphviz
 transitions
+jupyterlab
